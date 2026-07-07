@@ -1,0 +1,9 @@
+google-genai
+opencv-python-headless
+SpeechRecognition
+pyaudio
+numpy
+edge-tts
+flask
+flask-socketio
+RPi.GPIO
